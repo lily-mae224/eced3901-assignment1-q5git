@@ -1,3 +1,4 @@
 # eced3901-assignment1-q5git
-
-Here is some README file! You should change it...
+Lily Berrey
+B00905629
+MY GIT Commit!
